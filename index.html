@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Assignment 2 Complex layout</title>
+	<style type="text/css">
+	*
+	{
+		margin: 0px;
+		padding: 0px;
+	}
+	.header
+		{
+			min-height:75px;
+			border:1px solid gray;
+			overflow:hidden;
+			box-sizing:border-box;
+    }
+
+  .header_wrapper {
+  	width: 90%;
+  	min-height: 75px;
+  	margin: 0px auto;
+
+  }
+
+  .logo {
+  	width:20%;
+    border: 1px solid blue;
+    min-height: 45px;
+    margin: 15px;
+    float: left;
+  }
+
+  .menu_wrapper {
+    width: 50%;
+    min-height: 75px;
+    float: right;
+    margin-right:10%;
+
+  }
+
+  .search_bar {
+    width: 50%;
+    min-height:25px;
+    border: 1px solid brown;
+    margin: 10px auto;
+  }
+
+  .menu {
+    width: 100%;
+    border: 1px solid blue;
+    min-height: 30px;
+    margin: 0 auto;
+  }
+
+  .slider {
+    overflow: hidden;
+    min-height: 300px;
+    box-sizing: border-box;
+    border: 1px solid black;
+  }
+
+  .slider_wrapper {
+    width: 90%;
+    border:1px solid red;
+    margin: 0 auto;
+    min-height: 300px;
+    box-sizing: border-box;
+  }
+ .content {
+    overflow: hidden;
+    min-height: 400px;
+  }
+ 
+  .left_sidebar {
+    width: 25%;
+    border: 1px solid red;
+    min-height: 400px;
+    box-sizing: border-box;
+    float: left;
+
+  }
+
+  .left_sidebar_top 
+  {
+    width: 90%;
+    min-height: 150px;
+    border: 1px solid gray;
+    margin: 10px auto;
+    box-sizing: border-box;
+  }
+
+  .left_sidebar_bottom {
+    width: 90%;
+    min-height: 210px;
+    border: 1px solid gray;
+    margin: 0px auto;
+    box-sizing: border-box;
+  }
+
+ 
+
+  .main_content {
+    width:50%;
+    border: 1px solid red;
+    min-height: 400px;
+    box-sizing:border-box;
+    float: left;
+    }
+   .single_content_1
+   {
+    width: 80%;
+    min-height: 113px;
+    border: 1px solid black;
+    margin: 10px auto;
+    box-sizing: border-box;
+   }  
+   .single_content_2
+   {
+    width: 80%;
+    min-height: 113px;
+    border: 1px solid black;
+    margin: 10px auto;
+   }  
+   .single_content_3
+   {
+    width: 80%;
+    min-height: 113px;
+    border: 1px solid black;
+    margin: 10px auto;
+    box-sizing: border-box;
+   }
+  .right_sidebar {
+    width: 25%;
+    border: 1px solid black;
+    min-height: 400px;
+    box-sizing: border-box;
+    float: left;
+  }
+
+  .right_sidebar_top {
+    width: 90%;
+    min-height: 180px;
+    border: 1px solid gray;
+    margin: 10px auto;
+    box-sizing: border-box;
+
+  }
+
+  .right_sidebar_bottom {
+    width: 90%;
+    min-height: 180px;
+    border: 1px solid gray;
+    margin: 10px auto;
+    box-sizing: border-box;
+  }
+
+  .footer {
+    overflow: hidden;
+    min-height:75px;
+    border: 1px solid blue;
+    box-sizing: border-box;
+  }
+  .copyright
+  {
+    width: 50%;
+    min-height: 60px;
+    border: 1px solid orange;
+    box-sizing: border-box;
+    margin: 20px auto;
+  }
+	</style>
+</head>
+
+<body>
+  <div class="header">
+  	<div class="header_wrapper">
+  	<div class="logo"></div>
+  	   <div class="menu_wrapper">
+  	   	<div class="search_bar"></div>
+  	   	<div class="menu"></div>
+  	   </div>
+  	</div>
+  </div>
+  <div class="slider">
+  	<div class="slider_wrapper"></div>
+  </div>
+
+  <div class="content">
+  	<div class="left_sidebar">
+  		<div class="left_sidebar_top"></div>
+  		<div class="left_sidebar_bottom"></div>
+  	</div>
+  	<div class="main_content">
+     <div class="single_content_1"></div> 
+     <div class="single_content_2"></div>
+     <div class="single_content_3"></div> 
+    </div>
+  	<div class="right_sidebar">
+  		<div class="right_sidebar_top"></div>
+  		<div class="right_sidebar_bottom"></div>
+  	</div>
+  </div>
+  <div class="footer">
+    <div class="copyright"></div>
+  </div>
+
+</body>
+</html>
