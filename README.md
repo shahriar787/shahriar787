@@ -1,7 +1,7 @@
 ### Hi there, I'm Shahriar Shakil 👋
 
 
-## I'm a Developer, and Teacher!!
+## I'm a Freelance Developer, and Teacher!!
 
 - 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate with other content creators
@@ -12,7 +12,7 @@
 
 [<img align="left" alt="FreedomTutorials | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="webdev_shakil | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="sswebdev | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="sswebdev | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/facebook.svg" />][facebook]
 [<img align="left" alt="shahriarshakildev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="webdev_shakil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -46,8 +46,7 @@
 ➡️ [more videos...](https://youtube.com/c/FreedomTutorials)
 
 ---
-
-[website]: https://codeSTACKr.com
+[facebook]: https://facebook.com/sswebdev
 [twitter]: https://twitter.com/webdev_shakil
 [youtube]: https://youtube.com/c/FreedomTutorials
 [instagram]: https://instagram.com/webdev_shakil
