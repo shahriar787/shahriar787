@@ -1,7 +1,7 @@
 ### Hi there, I'm Shahriar Shakil 👋
 
 
-## I'm a Freelance Developer, and Teacher!!
+## I'm a Freelance Developer, and YT Video Creator!!
 
 - 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate with other content creators
