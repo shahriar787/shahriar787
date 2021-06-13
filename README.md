@@ -3,9 +3,9 @@
 
 ## I'm a Freelance Developer, and YT Video Creator!!
 
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Node JS
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 
 ### Connect with me:
